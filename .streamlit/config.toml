@@ -1,2 +1,4 @@
 [theme]
 base = "dark"
+[global]
+pythonVersion = "3.12"
